@@ -8,6 +8,8 @@ THIEF v0.1 EXTRA FEATURES
 6- When the file is opened, the files you choose are created on the victim's desktop.
 And more...
 
+Price: 30 $
+
 Contact Us
 hackersmtt@gmail.com
 TurkHackTeam - MuhammedTr768
